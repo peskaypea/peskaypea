@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @peskaypea
 - 👀 I’m learning front end Development 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on project that I an help and learn from
+- 💞️ I’m looking to collaborate on project that I cann help and learn from
 - 📫 How to reach me 
 
 <!---
