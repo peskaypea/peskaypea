@@ -2,7 +2,7 @@
 - 👀 I’m learning front end Development 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on project that I cann help and learn from
-- 📫 How to reach me 
+
 
 <!---
 peskaypea/peskaypea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
