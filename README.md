@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @peskaypea
-- 👀 I’m learning front end Development 
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on project that I cann help and learn from
+- 👋 Hi, I’m Zane
+- 👀 I’m a self taught front end Developer & love learning
+- 💯 Always here to grow my skills.
 
 
 <!---
