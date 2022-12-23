@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **zanecreid@hotmail.com**
 
-- ⚡ Fun fact **I love to surf 🏄 **
+- ⚡ Fun fact **I love to surf** 🏄 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
