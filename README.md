@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zane</h1>
 <h3 align="center">A passionate frontend developer from Australia, living in Portugal</h3>
+<h5> Fail foward until you reach your dreams </h5>
 
 - 🌱 I’m currently learning **React**
 
