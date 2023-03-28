@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Australia, living in Portugal</h3>
 <h5> Fail foward until you reach your dreams </h5>
 
-- 🌱 I’m currently learning **React**
-
 - ⚡ Fun fact **I love to surf** 🏄 
 
 - 📫 How to reach me **zanecreid@hotmail.com**
