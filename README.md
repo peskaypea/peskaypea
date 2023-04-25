@@ -3,6 +3,7 @@
 <h5> Fail foward until you reach your dreams </h5>
 
 - ⚡ Fun fact **I love to surf** 🏄 
+- Currently Working as a Web Designer / Developer
 
 - 📫 How to reach me **zanecreid@hotmail.com**
 
