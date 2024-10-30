@@ -9,7 +9,7 @@
 
 - **Portfolio** https://zane-portfolio.netlify.app/
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FJAIRAJ28%2FJAIRAJ28&psig=AOvVaw2AfFzKwII_-xjcKqb7rOWs&ust=1730370265722000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD7t93xtYkDFQAAAAAdAAAAABAm">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/27c3c96f9f2a8155f00d24e97d6a1984556a10aa3f7a5d27ec0e4c3100adca24/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
